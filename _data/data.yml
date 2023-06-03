@@ -101,16 +101,6 @@ education:
         #    - Bullet point
         #    - Bullet point
 
-publications:
-    title: Publications
-    intro:
-    papers:
-      - title: FactSheets for Hardware-Aware AI Models: A Case Study of Analog In Memory Computing AI Models
-        link: "#"
-        authors: Brandon Dominique, David Piorkowski, Kaoutar El-Maghraoui, Lorraine Herger
-        conference: IEEE International Conference on Software Services Engineering, 2023
-
-
         
 experiences:
     title: Outreach
@@ -153,6 +143,15 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        
+publications:
+    title: Publications
+    intro:
+    papers:
+      - title: FactSheets for Hardware-Aware AI Models: A Case Study of Analog In Memory Computing AI Models
+        link: "#"
+        authors: Brandon Dominique, David Piorkowski, Kaoutar El-Maghraoui, Lorraine Herger
+        conference: IEEE International Conference on Software Services Engineering, 2023
 
 #oss:
 #    title: OSS Contributions
