@@ -93,7 +93,13 @@
 
     {% if sidebar.pdf %}
     <li class="pdf"><i class="fas fa-file-pdf"></i>
-      <a href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
+      <a href="{{ sidebar.pdf }}" target="_blank">My CV</a>
+    </li>
+    {% endif %}
+    
+    {% if sidebar.google-scholar %}
+    <li class="email"><i class="fas fa-envelope"></i>
+      <a href="https://scholar.google.com">Google Scholar</a>
     </li>
     {% endif %}
 
