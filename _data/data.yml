@@ -107,7 +107,7 @@ publications:
     papers:
       - title: "FactSheets for Hardware-Aware AI Models: A Case Study of Analog In Memory Computing AI Models"
         link: "https://ieee.com"
-        authors: Brandon Dominique, David Piorkowski, Kaoutar El-Maghraoui, Lorraine Herger
+        authors: <b>Brandon Dominique</b>, David Piorkowski, Kaoutar El-Maghraoui, Lorraine Herger
         conference: IEEE International Conference on Software Services Engineering, 2023
         
 experiences:
