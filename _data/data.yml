@@ -113,21 +113,26 @@ publications:
 experiences:
     title: Outreach
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+      - role: "Bob Case Academy: Bridge to Calculus Data Camp Volunteer" 
+        time: 2019 - 2020
+        company: 
+        details:  
+      
+      - role: Graduate Student Ambassador
+        time: 2021 - Present
+        company: 
+        details:
+      
+      - role: LSAMP Cross Campus Mentor
+        time: 2019-2020
+        company: 
+        details:
+        
+      - role: NJIT EOP Undergraduate Mentoring Program Mentor 
+        time: 2019 - 2020
+        company: 
+        details:
+
 projects:
     title: Awards
     intro: 
@@ -175,27 +180,27 @@ projects:
 
 
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# skills:
+#    title: Skills &amp; Proficiency
+#
+#    toolset:
+#      - name: Python & Django
+#        level: 98%
+#
+#      - name: Javascript & jQuery
+#        level: 98%
+#
+#      - name: Angular
+#        level: 98%
+#
+#      - name: HTML5 & CSS
+#        level: 95%
+#
+#      - name: Ruby on Rails
+#        level: 85%
+#
+#      - name: Sketch & Photoshop
+#        level: 60%
+#
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
