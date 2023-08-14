@@ -105,8 +105,8 @@ publications:
     title: Publications
     intro:
     papers:
-      - title: "FactSheets for Hardware-Aware AI Models: A Case Study of Analog In Memory Computing AI Models"
-        link: "https://ieee.com"
+      - title: "(Best Student Paper) FactSheets for Hardware-Aware AI Models: A Case Study of Analog In Memory Computing AI Models"
+        link: "https://research.ibm.com/publications/factsheets-for-hardware-aware-ai-models-a-case-study-of-analog-in-memory-computing-ai-models"
         authors: <b>Brandon Dominique</b>, David Piorkowski, Kaoutar El-Maghraoui, Lorraine Herger
         conference: IEEE International Conference on Software Services Engineering, 2023
         
