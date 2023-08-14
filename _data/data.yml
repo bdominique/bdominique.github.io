@@ -130,9 +130,12 @@ experiences:
             Computer Engineering Student Ambassador, <i>2021-Present</i>
 
 projects:
-    title: Awards
+    title: Fellowships and Awards
     intro: 
     assignments:
+      - title: IEEE SSE 2023 - Best Student Paper Award
+        link:
+        tagline:
       - title: GEM Full PhD Fellowship
         link:
         tagline:
