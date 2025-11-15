@@ -57,8 +57,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a fourth year CSE PhD Candidate at Northeastern University 
-      working with Dr. Jennifer Dy in the [Signal Processing, Imaging, Reasoning, and Learning](https://web.northeastern.edu/spiral/) group (SPIRAL). 
+      I am a senior PhD student at Northeastern University 
+      working with [Dr. Jennifer Dy](https://mllabneu.github.io/) in the [Signal Processing, Imaging, Reasoning, and Learning](https://web.northeastern.edu/spiral/) group (SPIRAL). 
       Prior to NEU, I completed my B.S. 
       in Computer Engineering at the New Jersey Institute of Technology (NJIT). My primary research 
       interests are at the intersection of Fairness, Transparency and Human-Centered Design, with a 
@@ -91,7 +91,7 @@ education:
         #    - Bullet point
       - degree: PhD in Computer Engineering
         university: Northeastern University
-        time: 2020 - 2025
+        time: 2023 - 
         #details: |
         #  Describe your study here lorem ipsum dolor sit amet, consectetuer
         #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -109,7 +109,14 @@ publications:
         link: "https://research.ibm.com/publications/factsheets-for-hardware-aware-ai-models-a-case-study-of-analog-in-memory-computing-ai-models"
         authors: <b>Brandon Dominique</b>, David Piorkowski, Kaoutar El-Maghraoui, Lorraine Herger
         conference: IEEE International Conference on Software Services Engineering, 2023
-        
+      - title: "Prompt Templates: A Methodology for Improving Manual Red Teaming Performance"
+        link: "https://www.piorkowski.net/papers/HEAL-CHI24.pdf"
+        authors: <b>Brandon Dominique</b>, David Piorkowski, Manish Nagireddy, Ioana Baldini
+        conference: ACM CHI Conference on Human Factors in Computing Systems, 2024
+      - title: "On the Role of Calibration in Benchmarking Algorithmic Fairness for Skin Cancer Detection"
+        link: "https://arxiv.org/abs/2511.07700"
+        authors: <b>Brandon Dominique</b>, Prudence Lam, Nicholas Kurtansky, Jochen Weber, Kivanc Kose, Veronica Rotemberg, Jennifer Dy
+        conference: Journal of Machine Learning for Biomedical Imaging (MELBA), 2025
 experiences:
     title: Talks & Outreach
     info:
