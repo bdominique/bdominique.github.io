@@ -60,10 +60,7 @@ career-profile:
       I am a senior PhD student at Northeastern University 
       working with [Dr. Jennifer Dy](https://mllabneu.github.io/) in the [Signal Processing, Imaging, Reasoning, and Learning](https://web.northeastern.edu/spiral/) group (SPIRAL). 
       Prior to NEU, I completed my B.S. 
-      in Computer Engineering at the New Jersey Institute of Technology (NJIT). My primary research 
-      interests are at the intersection of Fairness, Transparency and Human-Centered Design, with a 
-      focus on Skin Cancer Detection. I examine how fair data practices and the creation of new fairness 
-      metrics can impact skin cancer outcomes for everyday people.
+      in Computer Engineering at the New Jersey Institute of Technology (NJIT). My primary research interests are at the intersection of Fairness, Transparency and Auditing, with a focus on Skin Cancer Detection. I examine how fair data practices and the creation of new fairness evaluation tools can impact outcomes for everyday people.
 education:
     title: Education
     info:
