@@ -58,15 +58,13 @@ career-profile:
     title: Career Profile
     summary: |
       I am a senior PhD student at Northeastern University 
-      working with [Dr. Jennifer Dy](https://mllabneu.github.io/) in the [Signal Processing, Imaging, Reasoning, and Learning](https://web.northeastern.edu/spiral/) group (SPIRAL). 
-      Prior to NEU, I completed my B.S. 
-      in Computer Engineering at the New Jersey Institute of Technology (NJIT). My primary research interests are at the intersection of My primary research interests are at the intersection of uncertainty quantification, subgroup discovery and fairness in machine learning, with an application to medical imaging (skin lesion classification). I examine how fair data practices and the creation of new fairness evaluation tools can impact outcomes for everyday people.
+      working with [Dr. Jennifer Dy](https://mllabneu.github.io/) in the [Signal Processing, Imaging, Reasoning, and Learning](https://web.northeastern.edu/spiral/) group (SPIRAL). Prior to NEU, I completed my B.S. in Computer Engineering at the New Jersey Institute of Technology (NJIT). My primary research interests are at the intersection of My primary research interests are at the intersection of uncertainty quantification, subgroup discovery and fairness in machine learning, with an application to medical imaging (skin lesion classification). I examine how fair data practices and the creation of new fairness evaluation tools can impact outcomes for everyday people.
 education:
     title: Education
     info:
       - degree: B.S. in Computer Engineering
         university: New Jersey Institute of Technology
-        time: 2016 - 2020
+        time: May 2020
         #details: |
         #  Describe your study here lorem ipsum dolor sit amet, consectetuer
         #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,7 +75,7 @@ education:
         #    - Bullet point
       - degree: M.S. in Computer Engineering
         university: Northeastern University
-        time: 2020 - 2023
+        time: May 2023
         #details: |
         #  Describe your study here lorem ipsum dolor sit amet, consectetuer
         #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -88,7 +86,7 @@ education:
         #    - Bullet point
       - degree: PhD in Computer Engineering
         university: Northeastern University
-        time: 2023 - 
+        time: Ongoing
         #details: |
         #  Describe your study here lorem ipsum dolor sit amet, consectetuer
         #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -102,21 +100,36 @@ publications:
     title: Publications
     intro:
     papers:
-      - title: "(Best Student Paper) FactSheets for Hardware-Aware AI Models: A Case Study of Analog In Memory Computing AI Models"
-        link: "https://research.ibm.com/publications/factsheets-for-hardware-aware-ai-models-a-case-study-of-analog-in-memory-computing-ai-models"
-        authors: <b>Brandon Dominique</b>, David Piorkowski, Kaoutar El-Maghraoui, Lorraine Herger
-        conference: IEEE International Conference on Software Services Engineering, 2023
-      - title: "Prompt Templates: A Methodology for Improving Manual Red Teaming Performance"
-        link: "https://www.piorkowski.net/papers/HEAL-CHI24.pdf"
-        authors: <b>Brandon Dominique</b>, David Piorkowski, Manish Nagireddy, Ioana Baldini
-        conference: ACM CHI Conference on Human Factors in Computing Systems, 2024
+      - title: "Discovering Bias by Learning Semantically Coherent Calibration Groups"
+        link:
+        authors: <b>Brandon Dominique</b>, Prudence Lam, Max Torop, Nicholas Kurtansky, Jochen Weber, Kivanc Kose, Veronica Rotemberg, Jennifer Dy
+        conference: Under review, 2026
+      - title: "Uncertainty-Aware Group-Conditional Conformal Prediction"
+        link:
+        authors: <b>Brandon Dominique</b>, Prudence Lam, Jennifer Dy
+        conference: Under review, 2026
       - title: "On the Role of Calibration in Benchmarking Algorithmic Fairness for Skin Cancer Detection"
         link: "https://arxiv.org/abs/2511.07700"
         authors: <b>Brandon Dominique</b>, Prudence Lam, Nicholas Kurtansky, Jochen Weber, Kivanc Kose, Veronica Rotemberg, Jennifer Dy
         conference: Journal of Machine Learning for Biomedical Imaging (MELBA), 2025
+      - title: "Prompt Templates: A Methodology for Improving Manual Red Teaming Performance"
+        link: "https://www.piorkowski.net/papers/HEAL-CHI24.pdf"
+        authors: <b>Brandon Dominique</b>, David Piorkowski, Manish Nagireddy, Ioana Baldini
+        conference: ACM CHI Conference on Human Factors in Computing Systems, 2024
+      - title: "(Best Student Paper) FactSheets for Hardware-Aware AI Models: A Case Study of Analog In Memory Computing AI Models"
+        link: "https://research.ibm.com/publications/factsheets-for-hardware-aware-ai-models-a-case-study-of-analog-in-memory-computing-ai-models"
+        authors: <b>Brandon Dominique</b>, David Piorkowski, Kaoutar El-Maghraoui, Lorraine Herger
+        conference: IEEE International Conference on Software Services Engineering, 2023
 experiences:
     title: Talks & Outreach
     info:
+      - role: <b>Invited Talk</b>
+        time:
+        company:
+        details: |
+            "Post-Hoc Methods for Detecting and Correcting Subgroup Bias in Medical AI Systems", <i>April 2026</i> <br>
+            Statistical Methods for Health Equity webinar series (UCL, Alan Turing Institute, Data Science for Health Equity)
+
       - role: <b>Mentor</b> 
         time:
         company: 
@@ -137,6 +150,9 @@ projects:
     title: Fellowships and Awards
     intro: 
     assignments:
+      - title: ICML 2026 Gold Reviewer
+        link:
+        tagline:
       - title: IEEE SSE 2023 - Best Student Paper Award
         link:
         tagline:
